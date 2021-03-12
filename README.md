@@ -1,7 +1,18 @@
-### John Ed Quinn
+## Hi! 👋🏽
 
-BS Computer Science at the  University of Notre Dame (Graduating May 2021)
+### About Me
+I'm John, a 21 year-old undergraduate from South Florida, USA.
 
-Main version control code manager is GitLab (but I occasionally work here)
+Interested in cloud computing and back-end development.
 
-Currently learning about Cloud Computing and Database Concepts
+Main version control code manager is GitLab (but I occasionally work here).
+
+### TLDR
+```c
+/* 
+ * @name    John Ed Quinn
+ * @email   johnedquinn@gmail.com
+ * @status  Studying some cool stuff
+*/
+```
+
