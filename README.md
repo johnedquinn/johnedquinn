@@ -2,6 +2,4 @@
 
 ### About Me
 
-I'm John, a 24 year-old living and working in Seattle, WA.
-
-Interested in compilers and database development.
+I'm John, a compiler and database enthusiast from Seattle, WA.
